@@ -1,4 +1,4 @@
-# Web Scraper using python | Swiggy Restaurants in Delhi
+# Swiggy Restaurants in Delhi| web scrapping in python
 
 ### Context
 Swiggy is an Indian online food ordering and delivery platform. Founded in July 2014, It is based in Bangalore and operates in 500 Indian cities as of September 2021. Swiggy is the most on-demand food delivery platform that brings food from neighborhood restaurants directly to customers' doors.
@@ -9,8 +9,6 @@ top restaurants in Delhi data and save the data in csv format.
 - Efficiently scraped 800 rows of unique and consistent data by Parsing through each restaurants page, to collect information
 like name, cuisine, rating, number of ratings, and the price for two.
 The source of data set is Swiggy's official website. Here is the link - https://www.swiggy.com/city/delhi/top-rated-collection
-
-https://www.kaggle.com/datasets/deevanshisharma/swiggys-top-rated-restaurants-in-delhi?select=rest_page.csv
 
 ### Project outline
 - We'll grab a list of names, and urls of top rated restaurants in Delhi on Swiggy, and put them in 'rest_page.csv'.
@@ -25,4 +23,3 @@ Bhukkad's Kitchen,"North Indian, Indian","Tis Hazari, Tis Hazari",5.0,20+ rating
 SUSHI MACHI,Sushi,"Hauz Khas, Green Park",4.9,20+ ratings,₹ 600
 ```
 
-Namaste!
